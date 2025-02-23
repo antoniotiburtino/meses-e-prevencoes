@@ -29,4 +29,15 @@ O objetivo deste projeto é proporcionar uma forma fácil de acessar informaçõ
 3. Abra o arquivo index.html no seu navegador.
    O projeto estará pronto para ser visualizado localmente!
 
+# O projeto
+
 ![Print da tela do projeto.](img/print-do-site.png).
+
+## Contribuições
+
+Sinta-se à vontade para contribuir com melhorias para o projeto! Se você encontrar algum problema ou tiver sugestões, abra uma issue ou envie um pull request.
+
+# Autores
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/156551571?v=4" width=115><br><sub>Antonio Tiburtino</sub>](https://github.com/antoniotiburtino) |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
